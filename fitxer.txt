@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 modificació 2 al document
-=======
+
 Hola! fitxer modificat desde branch1 ***
 >>>>>>> branch1
